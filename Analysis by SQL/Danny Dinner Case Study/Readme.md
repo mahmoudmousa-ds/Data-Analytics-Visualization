@@ -12,7 +12,7 @@ Danny's Diner wants to analyze customer transactions, loyalty points, and menu i
 
 ## 📁 Dataset
 ### ERD Diagrame 
-![alt text](images/ERD.png)
+![alt text](Images/ERD.png)
 
 
 The dataset includes the following tables:
