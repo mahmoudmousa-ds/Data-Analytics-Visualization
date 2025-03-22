@@ -1,6 +1,6 @@
 # 8-Week SQL Challenge - Case Study #4: Data Bank
 
-![alt text](<images/Data Bank Logo.png>)
+![alt text](<Images/Data Bank Logo.png>)
 
 ## 📌 Case Study Overview
 
