@@ -13,7 +13,7 @@ Data Bank wants to better understand customer spending habits and transaction pa
 - Detecting potential fraud based on transaction anomalies.
 
 ## ERD  
-![alt text](<images/ERD -  Data Bank.png>)
+![alt text](<Images/ERD -  Data Bank.png>)
 
 ## 📊 Dataset Overview
 
@@ -22,17 +22,17 @@ The case study includes three tables:
 ### Table 1: `regions`
 This table contains the `region_id` and their respective `region_name` values. In a traditional banking sense, these regions function like bank branches or stores worldwide.
 
-![alt text](images/region_table.JPG)
+![alt text](Images/region_table.JPG)
 
 ### Table 2: `customer_nodes`
 Customers are randomly distributed across the nodes according to their region, and this distribution changes frequently to reduce security risks. This table tracks where customer data and cash are stored.
 
-![alt text](images/customer_nodes_table.JPG)
+![alt text](Images/customer_nodes_table.JPG)
 
 ### Table 3: `customer_transactions`  
 This table stores all customer deposits, withdrawals, and purchases made using their Data Bank debit card.
 
-![alt text](images/customer_transactions_table.JPG)
+![alt text](Images/customer_transactions_table.JPG)
 
 ## 📌 Case Study Questions
 
