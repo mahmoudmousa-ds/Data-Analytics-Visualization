@@ -1,5 +1,5 @@
 # E-commerce Analysis Project
-![alt text](image.png)
+![alt text](image.gif)
 ## Description
 
 This project performs an analysis of e-commerce data to gain insights into customer behavior, sales trends, and product performance. The analysis aims to identify key factors driving sales and provide recommendations for improving business strategies.
